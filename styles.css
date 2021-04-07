@@ -262,12 +262,12 @@ header{
     }
 
     .line-top{
-        margin-top: -8px;
+        margin-top: 3px;
         margin-left: 20px;
     }
 
     .line-bottom{
-        margin-top: 0.7rem;
+        margin-top: -0.4rem;
         margin-left: 20px;
     }
 
